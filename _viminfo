@@ -1,0 +1,193 @@
+# Diese viminfo-Datei wurde von Vim 7.4 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=latin1
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~MSle0~/vimrc
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+:e $MYVIMRC
+:q
+:w
+:e t
+:e so
+:e! $MYVIMRC
+:set nowrap
+:w!
+:colorscheme molokai
+:e MYVIMRC
+:colorscheme kolor
+:e _vimrc
+:e vimrc
+:p
+:h
+
+# Suchausdruck Geschichte (neueste bis älteste):
+?/ 1 important
+?/vimrc
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+"0	LINE	0
+	{ date; $USER; ps $PPID; } >> log.log
+""1	LINE	0
+	set hidden
+"2	LINE	0
+	set nu
+"3	LINE	0
+	set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%1,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
+"4	LINE	0
+	printf (date && $USER); ps $PPID; >> log.log
+"-	CHAR	0
+	k
+
+# Datei-Marken:
+'0  34  35  C:\Program Files (x86)\Vim\_vimrc
+'1  28  13  C:\Program Files (x86)\Vim\_vimrc
+'2  14  0  C:\Program Files (x86)\Vim\_vimrc
+'3  1  0  c:\Program Files (x86)\Vim\vimfiles\bundle\$MYVIMRC
+'4  3  8  C:\Program Files (x86)\Vim\_vimrc
+'5  11  8  C:\Program Files (x86)\Vim\_vimrc
+'6  1  0  c:\Program Files (x86)\Vim\vimfiles\autoload\_vimrc
+'7  171  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+'8  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+'9  4  37  ~\test.sh
+
+# Geschichte (neueste zuerst):
+-'  34  35  C:\Program Files (x86)\Vim\_vimrc
+-'  1  0  C:\Program Files (x86)\Vim\_vimrc
+-'  28  13  C:\Program Files (x86)\Vim\_vimrc
+-'  21  0  C:\Program Files (x86)\Vim\_vimrc
+-'  18  0  C:\Program Files (x86)\Vim\_vimrc
+-'  20  0  C:\Program Files (x86)\Vim\_vimrc
+-'  14  0  C:\Program Files (x86)\Vim\_vimrc
+-'  1  0  C:\Windows\system32\t
+-'  1  0  C:\Windows\system32\so
+-'  35  0  C:\Program Files (x86)\Vim\_vimrc
+-'  1  0  c:\Program Files (x86)\Vim\vimfiles\bundle\$MYVIMRC
+-'  3  8  C:\Program Files (x86)\Vim\_vimrc
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\MYVIMRC
+-'  11  8  C:\Program Files (x86)\Vim\_vimrc
+-'  1  0  c:\Program Files (x86)\Vim\vimfiles\autoload\_vimrc
+-'  1  0  c:\Program Files (x86)\Vim\vimfiles\autoload\vimrc
+-'  171  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+-'  9  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  171  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+-'  9  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  171  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+-'  9  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\option-window
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  1  0  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Vim 7.4\vimrc
+-'  4  37  ~\test.sh
+-'  5  16  ~\test.sh
+-'  1  0  ~\test.sh
+-'  4  37  ~\test.sh
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> C:\Program Files (x86)\Vim\_vimrc
+	"	34	35
+	^	34	0
+	.	34	0
+	+	9	0
+	+	12	0
+	+	9	24
+	+	11	8
+	+	12	0
+	+	36	0
+	+	7	0
+	+	8	17
+	+	15	23
+	+	1	21
+	+	16	9
+	+	13	0
+	+	13	54
+	+	14	0
+	+	13	0
+	+	17	0
+	+	20	0
+	+	18	0
+	+	19	0
+	+	35	1
+	+	33	13
+	+	34	0
